@@ -1,5 +1,5 @@
 /* Board Class
-* (c) Nathan Paulhus, 2011
+* Created by Nathan Paulhus, 2011
 * 
 * This class initalizes the GUI used in the program with two objects,
 * the textfield for the entered tags and the textarea, with a scrollpane,

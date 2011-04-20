@@ -1,5 +1,5 @@
 /* Network Object
- * (c) Nathan Paulhus, 2011
+ * Created by Nathan Paulhus, 2011
  *
  * This class is instantiated with a set of tags, which the class reads and turns into urls.
  * After which, it attempts to download all the images on the page.
